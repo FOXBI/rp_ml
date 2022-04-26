@@ -1,0 +1,7 @@
+### Change LOG ###
+
+## Update v0.9.0-r01 - 2022.04.26
+- Register grub.cfg
+- Configure DSM for multi-use
+- Some set value variable processing
+  (sn, mac, satapotmap etc.)
