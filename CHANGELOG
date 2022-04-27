@@ -1,5 +1,12 @@
 ### Change LOG ###
 
+## Update v2.0.0-r01 - 2022.04.28
+- USB multiloader Support for Baremetal(mbr error fix)
+- Automatic support when writing up to 4 nic/mac
+- Add setting value variable processing item(com port)
+- Set to enable serial console connection when writing com port
+- A guide on how to add drivers
+
 ## Update v0.9.0-r01 - 2022.04.26
 - Register grub.cfg
 - Configure DSM for multi-use
