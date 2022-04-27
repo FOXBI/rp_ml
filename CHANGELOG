@@ -6,6 +6,7 @@
 - Add setting value variable processing item(com port)
 - Set to enable serial console connection when writing com port
 - A guide on how to add drivers
+- Update & Change Download Link
 
 ## Update v0.9.0-r01 - 2022.04.26
 - Register grub.cfg
