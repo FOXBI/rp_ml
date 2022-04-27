@@ -8,6 +8,7 @@
 
 3. ESXi Enviroment<br>
    (Bootloader SATA1 (1:0), DataDisk SATA0 (0:0))
+   
    or
    
    Baremetal Enviroment<br>
