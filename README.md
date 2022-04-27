@@ -52,6 +52,9 @@
 5. In the future, we plan to make Multiloader production possible directly on TC through tr_cb.sh.<br>
    https://github.com/FOXBI/tr_cb
    
+6. Serial console enable
+[![tr_st](http://img.youtube.com/vi/6zvQ_Ss8ZIw/0.jpg)](https://youtu.be/6zvQ_Ss8ZIw) 
+
 
 # Attachement
 
