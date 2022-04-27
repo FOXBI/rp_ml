@@ -7,7 +7,11 @@
 2. It is the same as using the existing Redpill Tinycore or a separately made loader.
 
 3. ESXi Enviroment<br>
-    (Bootloader SATA1 (1:0), DataDisk SATA0 (0:0))
+   (Bootloader SATA1 (1:0), DataDisk SATA0 (0:0))
+   or
+   
+   Baremetal Enviroment<br>
+   (It can be used by making a USB with rufus, etc.)
 
 # How to RUN Redpill Multiloader
 
@@ -52,5 +56,5 @@
 
 Download : (Google drive link - 400MB) -  Please understand that Google Drive is used because of its large capacity
 
-<b>https://drive.google.com/file/d/1xP2JObOiYEYSGm9195EwoLcIyaVdRixk/view?usp=sharing</b>
+<b>https://drive.google.com/file/d/1t1cOPMmlSg3c65mXJBeI_44yor_sp9Xl/view?usp=sharing</b>
 
