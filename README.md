@@ -55,6 +55,11 @@
 6. Serial console enable<br>
 [![tr_st](http://img.youtube.com/vi/6zvQ_Ss8ZIw/0.jpg)](https://youtu.be/6zvQ_Ss8ZIw) 
 
+## How to add ext driver
+
+[![tr_st](http://img.youtube.com/vi/vRdB3eei0Ls/0.jpg)](https://youtu.be/vRdB3eei0Ls) 
+
+[![tr_st](http://img.youtube.com/vi/-vWThoUIVrI/0.jpg)](https://youtu.be/-vWThoUIVrI) 
 
 # Attachement
 
